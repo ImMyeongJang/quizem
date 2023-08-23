@@ -11,3 +11,6 @@ Type "help", "copyright", "credits" or "license()" for more information.
 ... 20 10
 SyntaxError: multiple statements found while compiling a single statement
 >>> print(num2, num1)
+... 20 10
+SyntaxError: multiple statements found while compiling a single statement
+>>> print(num2, num1)
