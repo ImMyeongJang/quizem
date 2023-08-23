@@ -7,3 +7,4 @@ Type "help", "copyright", "credits" or "license()" for more information.
 10 20
 >>> print(num2, num1)
 20 10
+>>> print(num2, num1)
